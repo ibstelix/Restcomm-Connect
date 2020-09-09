@@ -89,7 +89,7 @@
     <staximpl.version>1.2.0</staximpl.version>
     <servlet-api.version>7.0.50</servlet-api.version>
     <shirocore.version>1.2.0</shirocore.version>
-    <shiroweb.version>1.2.0</shiroweb.version>
+    <shiroweb.version>1.6.0</shiroweb.version>
     <jersey.version>1.13</jersey.version>
     <httpclient.version>4.2.5</httpclient.version>
     <gson.version>2.3.1</gson.version>
@@ -108,7 +108,7 @@
     <shrinkwrap.resolver.version>2.0.0-alpha-4</shrinkwrap.resolver.version>
     <sipunit.version>2.0.1</sipunit.version>
     <!--tomcat.version>6.0.35</tomcat.version -->
-    <tomcat7.version>7.0.64</tomcat7.version>
+    <tomcat7.version>7.0.100</tomcat7.version>
     <mobicents.checkstyle.version>1.0.0.FINAL</mobicents.checkstyle.version>
     <checkstyle.plugin.version>2.9.1</checkstyle.plugin.version>
     <mgcpunit.version>1.0.0-ALPHA2</mgcpunit.version>
