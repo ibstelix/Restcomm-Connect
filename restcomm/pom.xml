@@ -75,7 +75,7 @@
   <properties>
     <scala-lang.version>2.10.1</scala-lang.version>
     <akka.version>2.1.2</akka.version>
-    <guava.version>14.0.1</guava.version>
+    <guava.version>30.0-android</guava.version>
     <log4j.version>1.2.16</log4j.version>
     <slf4j.version>1.5.5</slf4j.version>
     <commons-configuration.version>1.7</commons-configuration.version>
