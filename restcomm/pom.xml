@@ -79,7 +79,7 @@
     <log4j.version>1.2.16</log4j.version>
     <slf4j.version>1.5.5</slf4j.version>
     <commons-configuration.version>1.7</commons-configuration.version>
-    <commons-io.version>2.4</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <jain.mgcp.version>1.0</jain.mgcp.version>
     <mobicents.mgcp.impl.version>3.0.2.FINAL</mobicents.mgcp.impl.version>
     <javamail.version>1.4</javamail.version>
@@ -112,7 +112,7 @@
     <mobicents.checkstyle.version>1.0.0.FINAL</mobicents.checkstyle.version>
     <checkstyle.plugin.version>2.9.1</checkstyle.plugin.version>
     <mgcpunit.version>1.0.0-ALPHA2</mgcpunit.version>
-    <aws.sdk.version>1.9.24</aws.sdk.version>
+    <aws.sdk.version>1.11.1005</aws.sdk.version>
   </properties>
   <modules>
     <!-- <module>restcomm.docs</module> -->
