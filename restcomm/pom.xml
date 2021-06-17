@@ -78,7 +78,7 @@
     <guava.version>14.0.1</guava.version>
     <log4j.version>1.2.16</log4j.version>
     <slf4j.version>1.5.5</slf4j.version>
-    <commons-configuration.version>1.7</commons-configuration.version>
+    <commons-configuration.version>1.8</commons-configuration.version>
     <commons-io.version>2.4</commons-io.version>
     <jain.mgcp.version>1.0</jain.mgcp.version>
     <mobicents.mgcp.impl.version>3.0.2.FINAL</mobicents.mgcp.impl.version>
@@ -91,9 +91,9 @@
     <shirocore.version>1.2.0</shirocore.version>
     <shiroweb.version>1.2.0</shiroweb.version>
     <jersey.version>1.13</jersey.version>
-    <httpclient.version>4.2.5</httpclient.version>
+    <httpclient.version>4.3.3</httpclient.version>
     <gson.version>2.3.1</gson.version>
-    <xstream.version>1.4.2</xstream.version>
+    <xstream.version>1.4.17</xstream.version>
     <mongodb.version>2.7.2</mongodb.version>
     <mybatis.version>3.2.2</mybatis.version>
     <jodatime.version>2.0</jodatime.version>
